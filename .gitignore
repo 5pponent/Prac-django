@@ -1,3 +1,6 @@
 ### IntelliJ IDEA ###
 .idea
+
+### Secrets ###
 db.sqlite3
+secrets.py
