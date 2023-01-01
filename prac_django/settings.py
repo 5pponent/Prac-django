@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'poll.apps.PollConfig', # Poll 어플리케이션 활성화
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
